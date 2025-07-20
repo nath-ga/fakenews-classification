@@ -1,0 +1,44 @@
+# Bytecode-Dateien
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Temporäre Dateien von Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Systemabhängige Dateien
+.DS_Store
+Thumbs.db
+
+# Tokenizer-Dateien oder Cache
+*.tokenizer_config.json
+*.vocab.txt
+*.model
+special_tokens_map.json
+tokenizer.json
+
+# Log-Dateien
+*.log
+
+# Modelldateien 
+*.bin
+*.pt
+*.h5
+*.safetensors
+
+# Datensätze 
+data/
+outputs/
+.env
+
+# IDE / VS Code
+.vscode/
+*.code-workspace
+
+# Parquet, CSVs, Testfiles
+*.parquet
+*.csv
+
+# Jupyter Notebooks 
+*.ipynb
