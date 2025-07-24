@@ -59,3 +59,15 @@ distilbert-base-uncased
 2 Epochen, Lernrate 5e-5
 80/20 Train/Test-Split
 
+## Projekt-Präsentation
+
+Die kompakte Präsentation des Projekts als Bilderserie:
+
+![Slide 1](presentation/1.png)
+![Slide 2](presentation/2.png)
+![Slide 3](presentation/3.png)
+![Slide 4](presentation/4.png)
+![Slide 5](presentation/5.png)
+![Slide 6](presentation/6.png)
+
+
