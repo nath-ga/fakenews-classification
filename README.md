@@ -28,6 +28,7 @@ Dieses Projekt demonstriert, wie man mit Hilfe eines feinjustierten BERT-Modells
 
 ## 📦 Ordnerstruktur
 
+```
 fakenews-classification/
 │
 ├── data/                     # Datensätze
@@ -45,6 +46,7 @@ fakenews-classification/
 │   └── predict_examples.py
 │
 └── README.md                 # Dieses Dokument
+```
 
 ## Anforderungen
 
