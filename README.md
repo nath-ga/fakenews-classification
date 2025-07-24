@@ -70,4 +70,17 @@ Die kompakte Präsentation des Projekts als Bilderserie:
 ![Slide 5](presentation/5.png)
 ![Slide 6](presentation/6.png)
 
+## License
+
+This project is provided under the following terms:
+
+- All **non-code content** (texts, project idea, images, visualizations) is licensed under **CC BY-NC 4.0**  
+  → https://creativecommons.org/licenses/by-nc/4.0/
+
+- The **source code** is free to use and adapt for **non-commercial purposes**, with attribution.  
+  Commercial use requires permission: [your email]
+
+© 2025 Nathalie Gassert
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC--BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
